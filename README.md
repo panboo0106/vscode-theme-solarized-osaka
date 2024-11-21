@@ -1,7 +1,7 @@
 <h1 align="center">Solarized Osaka Theme for VS Code</h1>
 
 <p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=sherloach.solarized-osaka" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/sherloach.solarized-osaka.svg?color=4d9375&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=sherloach.solarized-osaka" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/sherloach.solarized-osaka.svg?color=4d9375&label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
 </p>
 
 <h3>A clean dark theme for Visual Studio Code base on Solarized Dark theme.</h3>
@@ -27,10 +27,16 @@
 - json key value is not right
 - light version
 
+
+## dev
+
+vsce package
+
+
 ## Thanks
 
 This project is based on [solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim). If you use Neovim, you should try his theme, it is really cool!
 
 ## License
 
-MIT - Copyright (c) 2023 Hayden Ngo <br>
+MIT - Copyright (c) 2023 Hayden Ngo `<br>`
